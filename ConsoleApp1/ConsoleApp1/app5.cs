@@ -22,18 +22,14 @@ namespace ConsoleApp1
                     count++;
                 }
 
-
-
-
-
             }
-            if (count == 0)
+            if (count == 0 && a != 1)
             {
-                Console.WriteLine("is  prime!!");
+                Console.WriteLine("it is  prime!!");
             }
             else
             {
-                Console.WriteLine("is not prime!!");
+                Console.WriteLine("it's not prime!!");
             }
         }
     }

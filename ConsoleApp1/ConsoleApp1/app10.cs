@@ -13,13 +13,13 @@ namespace ConsoleApp1
             int n;
             Console.WriteLine("Enter n: ");
             n = int.Parse(Console.ReadLine());
-            int first = 0, sec = 1, next;
+
+            int first = 0, sec = 1, next=0;
             for (int i = 0; i < n; i++)
             {
                 if (i <= 1)
-                {
                     next = i;
-                }
+                
                 else
                 {
                     next = first + sec;
@@ -27,9 +27,16 @@ namespace ConsoleApp1
                     sec = next;
 
                 }
-                Console.WriteLine(next + " ");
+                
             }
-            Console.WriteLine();
+            if (n > 0)
+            {
+                Console.WriteLine("The " + n + " term of fibonacci series is " + next);
+            }
+            else
+            {
+                Console.WriteLine("invalid input");
+            }
         }
     }
 }

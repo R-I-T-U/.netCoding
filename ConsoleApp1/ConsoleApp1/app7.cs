@@ -10,29 +10,28 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int number;
-            int sumOfDivisors = 0;
+            int sum = 0;
 
             Console.WriteLine("Enter a number: ");
-            number = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
 
             // Find all divisors of the number (excluding itself)
-            for (int i = 1; i <= number / 2; i++)
+            for (int i = 1; i <= n / 2; i++)
             {
-                if (number % i == 0)
+                if (n % i == 0)
                 {
-                    sumOfDivisors += i;
+                    sum += i;
                 }
             }
 
             // Check if the sum of divisors equals the number
-            if (sumOfDivisors == number)
+            if (sum == n)
             {
-                Console.WriteLine($"{number} is a perfect number.");
+                Console.WriteLine("it is a perfect number.");
             }
             else
             {
-                Console.WriteLine($"{number} is not a perfect number.");
+                Console.WriteLine("it is not a perfect number.");
             }
         }
     }

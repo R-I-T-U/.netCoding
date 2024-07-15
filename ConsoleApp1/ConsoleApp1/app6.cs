@@ -11,29 +11,29 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int number, originalNumber, result = 0, n = 0;
+            int n, a, r = 0;
 
             Console.WriteLine("Enter a number: ");
-            number = int.Parse(Console.ReadLine());
+            n = int.Parse(Console.ReadLine());
 
-            originalNumber = number;
+            a = n;
 
-            while (number != 0)
+            while (n != 0)
             {
-                int temp = number;
+                int temp = n;
                 temp %= 10;
-                result += (temp * temp * temp);
-                number /= 10;
+                r += (temp * temp * temp);
+                n /= 10;
 
             }
 
-            if (result == originalNumber)
+            if (r == a)
             {
-                Console.WriteLine(" is an Armstrong number.");
+                Console.WriteLine("it is an Armstrong number.");
             }
             else
             {
-                Console.WriteLine(" is not an Armstrong number.");
+                Console.WriteLine("it is not an Armstrong number.");
             }
         }
     }

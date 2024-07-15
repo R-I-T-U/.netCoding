@@ -10,27 +10,31 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("input a number 1: ");
+            Console.WriteLine("Input number 1: ");
             int a = int.Parse(Console.ReadLine());
-            Console.WriteLine("input a number 2: ");
+
+            Console.WriteLine("Input number 2: ");
             int b = int.Parse(Console.ReadLine());
-            Console.WriteLine("input a number 3: ");
+
+            Console.WriteLine("Input number 3: ");
             int c = int.Parse(Console.ReadLine());
-            if (a > b)
+
+            if (a >= b)
             {
                 if (a > c)
-                    Console.WriteLine("largest no. is  " + a);
+                    Console.WriteLine("Largest number is " + a);
+                else 
+                    Console.WriteLine("Largest number is "+c);
             }
-            else if (b > a)
+            else 
             {
                 if (b > c)
-                    Console.WriteLine("largest no. is " + b);
+                    Console.WriteLine("Largest number is " + b);
+                else 
+                    Console.WriteLine("Largest number is " + c);
             }
-            else
-            {
-                Console.WriteLine("largest no. is " + c);
-            }
-
+            
+            
         }
     }
 }

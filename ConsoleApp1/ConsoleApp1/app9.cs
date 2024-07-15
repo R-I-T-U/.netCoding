@@ -22,7 +22,7 @@ namespace ConsoleApp1
             if (count <= n)
             {
                 int cube = count * count * count;
-                Console.WriteLine("cube of " + count + " is " + cube + "\n");
+                Console.WriteLine("cube of " + count + " is " + cube );
                 count++;
                 goto start;
             }

@@ -10,24 +10,23 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int number;
-            int sum = 0;
+            int n, sum = 0;
 
-            Console.WriteLine("Enter integers:");
+            Console.WriteLine("Enter integers:(negative to stop)");
 
             while (true)
             {
-                number = int.Parse(Console.ReadLine());
+                n = int.Parse(Console.ReadLine());
 
-                if (number < 0)
+                if (n < 0)
                 {
                     break; // Exit the loop if a negative number is entered
                 }
 
-                sum += number; // Add the number to the sum
+                sum += n; // Add the number to the sum
             }
 
-            Console.WriteLine("Sum of the entered integers: " + sum);
+            Console.WriteLine("Sum of the entered numbers is " + sum);
         }
     }
 }
