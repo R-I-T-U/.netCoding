@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{42B87051-E400-4113-802A-11E58935FC6B}</ProjectGuid>
+    <ProjectGuid>{1F14A1F5-BEAB-49A9-9C1D-43554676F4F4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp1</RootNamespace>
-    <AssemblyName>ConsoleApp1</AssemblyName>
+    <RootNamespace>ConsoleApp2</RootNamespace>
+    <AssemblyName>ConsoleApp2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp1.app1</StartupObject>
+    <StartupObject>ConsoleApp2.app9</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="app1.cs" />
     <Compile Include="app10.cs" />
     <Compile Include="app2.cs" />
     <Compile Include="app3.cs" />
@@ -54,6 +53,7 @@
     <Compile Include="app5.cs" />
     <Compile Include="app6.cs" />
     <Compile Include="app7.cs" />
+    <Compile Include="app1.cs" />
     <Compile Include="app8.cs" />
     <Compile Include="app9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
