@@ -12,7 +12,7 @@ namespace ConsoleApp2
         public static void Main(string[] args)
         {
             int x = 1;
-            int[] y={2,3,4,5,6,7,8,9};
+            int[] y={2,3,4,5,6};
             int r = sum(x, y);
             Console.WriteLine("implementing params keyword, sum is "+r);
 

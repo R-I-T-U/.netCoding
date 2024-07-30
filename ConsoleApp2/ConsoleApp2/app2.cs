@@ -20,7 +20,7 @@ namespace ConsoleApp2
                 else if(arr[i] < min)
                     min = arr[i];
             }
-            Console.WriteLine($"min element is {min} and max element is {max}");
+            Console.WriteLine("min element is "+min+" and max element is "+max);
         }
     }
 }

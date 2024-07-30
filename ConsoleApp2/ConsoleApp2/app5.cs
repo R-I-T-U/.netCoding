@@ -17,7 +17,7 @@ namespace ConsoleApp2
             {
                 for (int j = 0; j < arr[i].Length; j++)
                 {
-                    Console.WriteLine(arr[i][j] + " ");
+                    Console.Write(arr[i][j] + " ");
                 }
                 Console.WriteLine();
             }

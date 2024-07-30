@@ -8,7 +8,7 @@ namespace ConsoleApp2
 {
     internal class app7
     {
-        public static int sum(int a, int b = 5)
+        public static int sum(int a, int b = 1)
         {
             return a + b;
         }
@@ -19,10 +19,9 @@ namespace ConsoleApp2
         public static void Main(string[] args)
         {
             int res1 = sum(1);
-            int res2 = sub(d: 3, c: 10);
+            int res2 = sub(d: 1, c: 2);
             Console.WriteLine("Optional parameter:" + res1);
             Console.WriteLine("Named Parameter:" + res2);
-            Console.ReadKey();
         }
     }
 }

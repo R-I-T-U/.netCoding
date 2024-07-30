@@ -8,18 +8,17 @@ namespace ConsoleApp2
         {
             int n = 10;
 
-            Console.WriteLine($"Original value: {n}");
-            int r = PassByValue(n);
-            Console.WriteLine($"Value after pass by value: {n} (original), {r} (returned)");
+            Console.WriteLine("Original value: "+n);
+            PassByValue(n);
+            Console.WriteLine("Value after pass by value: "+n);
 
             PassByReference(ref n);
-            Console.WriteLine($"Value after pass by reference: {n}");
+            Console.WriteLine("Value after pass by reference: "+n);
         }
 
-        static int PassByValue(int n)
+        static void PassByValue(int n)
         {
            n++;
-            return n;
         }
 
         static void PassByReference(ref int n)
