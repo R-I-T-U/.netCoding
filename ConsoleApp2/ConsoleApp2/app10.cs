@@ -25,8 +25,7 @@ namespace ConsoleApp2
                 exp = exp + matrix[i, j] * (matrix[i + 1, (j + 1) % 3] * matrix[i + 2, (j + 2) % 3] - matrix[i + 1, (j + 2) % 3] * matrix[i + 2, (j + 1) % 3]);
             }
 
-            Console.WriteLine("The determinant of the matrix is: " + exp);
-            Console.ReadKey();
+            Console.WriteLine("Determinant is: " + exp);
         }
     }
 }

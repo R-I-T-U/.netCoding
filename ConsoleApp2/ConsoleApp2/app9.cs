@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("The prime elements are: ");
+            Console.WriteLine("Prime numbers are: ");
             int[] arr = { 3,7,8,9,12,13 };
 
             foreach (int i in arr)
