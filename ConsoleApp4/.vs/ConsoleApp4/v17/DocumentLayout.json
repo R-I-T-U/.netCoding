@@ -3,39 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\app7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\app7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ritu\\documents\\.netcoding\\consoleapp4\\consoleapp4\\app6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\app6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ritu\\documents\\.netcoding\\consoleapp4\\consoleapp4\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\app2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\app2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\app5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\app5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\app4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\app4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\app3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\app3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\app4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\app4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ritu\\documents\\.netcoding\\consoleapp4\\consoleapp4\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\app6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\app6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\app5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\app5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\app2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\app2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\app7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\app7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\consoleapp4\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD420486-7CE1-4A81-9DBB-AB1FF2CB4D5F}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ritu\\documents\\.netcoding\\consoleapp4\\consoleapp4\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,11 +52,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "sample.cs",
+              "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\sample.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\sample.cs",
+              "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\sample.cs",
+              "RelativeToolTip": "ConsoleApp4\\sample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:56:52.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "app5.cs",
               "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app5.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\app5.cs",
@@ -61,101 +81,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ConsoleApp4",
               "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
               "RelativeDocumentMoniker": "ConsoleApp4\\ConsoleApp4.csproj",
               "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
               "RelativeToolTip": "ConsoleApp4\\ConsoleApp4.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-02T02:28:37.045Z"
+              "WhenOpened": "2024-08-02T02:28:37.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "test.cs",
               "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\test.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\test.cs",
               "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\test.cs",
               "RelativeToolTip": "ConsoleApp4\\test.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T08:58:56.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T08:58:56.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "app7.cs",
               "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app7.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\app7.cs",
               "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app7.cs",
               "RelativeToolTip": "ConsoleApp4\\app7.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T08:50:54.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T08:50:54.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "app6.cs",
               "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app6.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\app6.cs",
               "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app6.cs",
               "RelativeToolTip": "ConsoleApp4\\app6.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAADwvwoAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T06:37:52.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T06:37:52.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "app4.cs",
               "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app4.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\app4.cs",
               "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app4.cs",
               "RelativeToolTip": "ConsoleApp4\\app4.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA4AAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:35:09.853Z"
+              "WhenOpened": "2024-07-31T09:35:09.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "app3.cs",
               "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app3.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\app3.cs",
               "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app3.cs",
               "RelativeToolTip": "ConsoleApp4\\app3.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwBYAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:26:18.916Z"
+              "WhenOpened": "2024-07-31T09:26:18.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "app2.cs",
               "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app2.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\app2.cs",
               "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app2.cs",
               "RelativeToolTip": "ConsoleApp4\\app2.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAsAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T09:08:40.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "app1.cs",
               "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app1.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\app1.cs",
               "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp4\\ConsoleApp4\\app1.cs",
               "RelativeToolTip": "ConsoleApp4\\app1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:54:28.671Z"
+              "WhenOpened": "2024-07-31T08:54:28.671Z",
+              "EditorCaption": ""
             }
           ]
         }

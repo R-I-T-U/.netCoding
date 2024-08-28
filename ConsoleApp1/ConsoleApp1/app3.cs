@@ -19,7 +19,7 @@ namespace ConsoleApp1
             Console.WriteLine("Input number 3: ");
             int c = int.Parse(Console.ReadLine());
 
-            if (a >= b)
+            if (a > b)
             {
                 if (a > c)
                     Console.WriteLine("Largest number is " + a);

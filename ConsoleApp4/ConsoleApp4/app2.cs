@@ -16,7 +16,13 @@ namespace ConsoleApp4
                 height = h;
                 depth = d;
             }
-            public void volume()
+        public Box()
+        {
+            width = 1;
+            height = 2;
+            depth = 3;
+        }
+        public void volume()
             {
                 float v = width*height*depth;
                 Console.WriteLine("Volume is " + v);
@@ -35,7 +41,10 @@ namespace ConsoleApp4
                 Box b1 = new Box(2.3f, 3.5f, 4);
                 b1.volume();
                 b1.surfaceArea();
-            }
+            Box b2 = new Box();
+            b2.volume();
+            b2.surfaceArea();
+        }
 
         }
     

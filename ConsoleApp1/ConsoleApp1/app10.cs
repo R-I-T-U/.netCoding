@@ -15,18 +15,11 @@ namespace ConsoleApp1
             n = int.Parse(Console.ReadLine());
 
             int first = 0, sec = 1, next=0;
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < n-2; i++)
             {
-                if (i <= 1)
-                    next = i;
-                
-                else
-                {
-                    next = first + sec;
-                    first = sec;
-                    sec = next;
-
-                }
+                next = first + sec;
+                first = sec;
+                sec = next;                
                 
             }
             if (n > 0)

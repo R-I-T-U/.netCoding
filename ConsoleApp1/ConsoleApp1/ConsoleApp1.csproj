@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp1.app1</StartupObject>
+    <StartupObject>ConsoleApp1.app10</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

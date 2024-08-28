@@ -25,8 +25,19 @@ namespace ConsoleApp4
             inches += o2.inches;
                
             }
+        public void subtractDistance(Distance o2)
+        {
+            
+            feet -= o2.feet;
+            inches -= o2.inches;
+            if (feet<0)
+            {
+                Console.WriteLine("Distance cannot be in negative");
+            }
 
-            public void DisplayDistance()
+        }
+
+        public void DisplayDistance()
             {
                 Console.WriteLine($"{feet} feet {inches} inches");
             }
@@ -47,6 +58,11 @@ namespace ConsoleApp4
 
                 Console.Write("Resultant distance: ");
                 d1.DisplayDistance();
+
+            d1.subtractDistance(d2);
+            Console.Write("Resultant distance: ");
+            d1.DisplayDistance();
+
         }
     }
     

@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         public static void Main(string[] args)
         {
-            int[,] matrix = new int[3, 3]
+            int[,] matrix = 
             {
                 {2,3,4},
                 {8,7,6 },

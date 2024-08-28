@@ -44,7 +44,8 @@ namespace ConsoleApp1
                 case 9:
                     Console.WriteLine("nine");
                     break;
-
+                default: Console.WriteLine("none");
+                    break;
 
 
             }

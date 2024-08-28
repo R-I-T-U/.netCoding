@@ -23,6 +23,15 @@ namespace ConsoleApp4
         {
             Console.WriteLine($"{Hours:D2}:{Minutes:D2}:{Seconds:D2}");
         }
+        private static Time SecondsToTime(int seconds)
+        {
+            Time t = new Time();
+            t.Hours = seconds / 3600;
+            seconds %= 3600;
+            t.Minutes = seconds / 60;
+            t.Seconds = seconds % 60;
+            return t;
+        }
 
         public static Time Add(Time t1, Time t2)
         {
@@ -48,15 +57,7 @@ namespace ConsoleApp4
             return SecondsToTime(diffSec);
         }
 
-        private static Time SecondsToTime(int seconds)
-        {
-            Time t = new Time();
-            t.Hours = seconds / 3600;
-            seconds %= 3600;
-            t.Minutes = seconds / 60;
-            t.Seconds = seconds % 60;
-            return t;
-        }
+        
     }
 
     public class app6
