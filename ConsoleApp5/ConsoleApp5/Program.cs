@@ -14,15 +14,15 @@ public abstract class Shape
 
 }
 
-public class Triangle : Shape
+public class Rectangle : Shape
 {
-    public Triangle(double h, double b) : base(h, b)
+    public Rectangle(double l, double h) : base(l, h)
     {
 
     }
     public override double area()
     {
-        return 0.5 * dim1 * dim2;
+        return dim1 * dim2;
 
     }
 }
@@ -31,9 +31,9 @@ public class abstractEx
 {
     public static void Main(string[] args)
     {
-        Triangle t1 = new Triangle(4, 5);
+        Rectangle t1 = new Rectangle(4, 5);
         double a = t1.area();
-        Console.WriteLine("Area of triangle is " + a);
+        Console.WriteLine("Area of Rectangle is " + a);
         Console.ReadKey();
     }
 
