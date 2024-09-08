@@ -56,3 +56,50 @@ namespace q3
         }
     }
 }
+
+/*
+Example of indexer
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace lab5
+{
+    class IndexerClass
+    {
+        private string[] sub = new string[5];
+        public string this[int i]
+        {
+            get
+            {
+                return sub[i];
+            }
+            set
+            {
+                sub[i] = value;
+            }
+        }
+    }
+    internal class q3
+    {
+        public static void Main(string[] args)
+        {
+            IndexerClass subject = new IndexerClass();
+            subject[0] = "MSI and E-Business";
+            subject[1] = "Introductio to Management";
+            subject[2] = "Computer Graphics and Animation";
+            subject[3] = "DotNet";
+            subject[4] = "Networking";
+
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(subject[i]);
+            }
+            Console.ReadKey();
+        }
+    }
+}
+*/

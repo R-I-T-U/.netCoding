@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB781325-45E5-453D-A406-F49C2DD01213}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\ritu\\documents\\.netcoding\\consoleapp5\\consoleapp5\\pract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB781325-45E5-453D-A406-F49C2DD01213}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\pract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp5||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp5||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{BB781325-45E5-453D-A406-F49C2DD01213}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\ritu\\documents\\.netcoding\\consoleapp5\\consoleapp5\\pract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB781325-45E5-453D-A406-F49C2DD01213}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\pract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB781325-45E5-453D-A406-F49C2DD01213}|ConsoleApp5\\ConsoleApp5.csproj|C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp5\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,29 +44,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ConsoleApp5",
               "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
               "RelativeDocumentMoniker": "ConsoleApp5\\ConsoleApp5.csproj",
-              "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
-              "RelativeToolTip": "ConsoleApp5\\ConsoleApp5.csproj",
+              "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj*",
+              "RelativeToolTip": "ConsoleApp5\\ConsoleApp5.csproj*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-09-02T02:21:11.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "pract.cs",
               "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp5\\ConsoleApp5\\pract.cs",
               "RelativeDocumentMoniker": "ConsoleApp5\\pract.cs",
-              "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp5\\ConsoleApp5\\pract.cs*",
-              "RelativeToolTip": "ConsoleApp5\\pract.cs*",
-              "ViewState": "AgIAAC4AAAAAAAAAAADwvxkAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\ConsoleApp5\\ConsoleApp5\\pract.cs",
+              "RelativeToolTip": "ConsoleApp5\\pract.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T02:20:45.373Z",
               "EditorCaption": ""
