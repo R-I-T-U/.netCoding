@@ -15,7 +15,7 @@ public class q2
             };
             Console.WriteLine("using anonymous method: square is " + del(2));
             squareDel del2 = x => x * x;
-            Console.WriteLine("using lamda exp: square is "+del(3));
+            Console.WriteLine("using lamda exp: square is "+del2(3));
             Console.ReadKey();
 
         }

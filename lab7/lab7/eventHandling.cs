@@ -4,53 +4,60 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab7
+namespace Lab7
 {
     public class Person
     {
-        public void msg(string n, double op, double np)
+        public void display(String name, double op, double np)
         {
-            Console.WriteLine("stock of "+n," is ",np," from "+op);
+            Console.WriteLine("The stock of " +
+                name + " is changed to " + np + " from " + op);
         }
     }
-    public delegate void PriceChanged(String n, double op, double np);
+    public delegate void priceChanged(string name, double op, double np);
     public class stockTicker
     {
-        public event PriceChanged pc;
-        private double price;
-        private string stockName;
-        public stockTicker(string n, double ip)
-        {
-            stockName = n;
-            price = ip;
-        }
-        public string name
-        {
-            get { return stockName; }
-        }
+        public event priceChanged pc;
+        public string name { get; set; }
+        public double price;
         public double Price
         {
             get { return price; }
-            set {
-                double op = price;
+            set
+            {
+                double oldprice = price;
                 price = value;
-                if(pc != null) 
-                    pc(stockName,op,price);
+                if (pc != null)
+                {
+                    pc(name, oldprice, price);
+                }
+
             }
+
         }
 
     }
     public class eventHandling
     {
-        static void Main()
-        {
-            Person p = new Person();
-            stockTicker s = new stockTicker("ritu",600);
-            s.pc += p.msg;
-            s.Price = 700;
-            s.Price = 500;
-            Console.ReadKey();
+        private static string name;
 
-        }
+        public static int Price { get; private set; }
+
+        public static void Main(string[] args)
+{
+    Person p = new Person();
+    stockTicker s = new stockTicker();
+    
+    s.name = "Sunrise";
+    s.Price = 900;
+    
+    s.pc += p.display;
+    
+    s.Price = 1000;
+    s.Price = 1500;
+
+    Console.ReadKey();
+}
+
     }
 }

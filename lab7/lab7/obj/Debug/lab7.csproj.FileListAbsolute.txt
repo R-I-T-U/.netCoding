@@ -5,3 +5,10 @@ C:\Users\Ritu\source\repos\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cac
 C:\Users\Ritu\source\repos\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
 C:\Users\Ritu\source\repos\lab7\lab7\obj\Debug\lab7.exe
 C:\Users\Ritu\source\repos\lab7\lab7\obj\Debug\lab7.pdb
+C:\Users\Ritu\Documents\.netCoding\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\Ritu\Documents\.netCoding\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\Ritu\Documents\.netCoding\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\Ritu\Documents\.netCoding\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+C:\Users\Ritu\Documents\.netCoding\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Ritu\Documents\.netCoding\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\Ritu\Documents\.netCoding\lab7\lab7\obj\Debug\lab7.pdb
