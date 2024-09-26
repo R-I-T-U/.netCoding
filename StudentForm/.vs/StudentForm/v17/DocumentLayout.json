@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ritu\\Documents\\.netCoding\\StudentForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5965CC-C27D-4406-84BC-B4D5346A97F9}|StudentForm\\StudentForm.csproj|c:\\users\\ritu\\documents\\.netcoding\\studentform\\studentform\\validationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5965CC-C27D-4406-84BC-B4D5346A97F9}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\validationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5965CC-C27D-4406-84BC-B4D5346A97F9}|StudentForm\\StudentForm.csproj|c:\\users\\ritu\\documents\\.netcoding\\studentform\\studentform\\validationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C5965CC-C27D-4406-84BC-B4D5346A97F9}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\validationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\StudentForm\\StudentForm\\ValidationForm.aspx",
+              "RelativeDocumentMoniker": "StudentForm\\ValidationForm.aspx",
+              "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\StudentForm\\StudentForm\\ValidationForm.aspx",
+              "RelativeToolTip": "StudentForm\\ValidationForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-26T08:17:41.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ritu\\Documents\\.netCoding\\StudentForm\\StudentForm\\ValidationForm.aspx.cs",
+              "RelativeDocumentMoniker": "StudentForm\\ValidationForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Ritu\\Documents\\.netCoding\\StudentForm\\StudentForm\\ValidationForm.aspx.cs",
+              "RelativeToolTip": "StudentForm\\ValidationForm.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:17:37.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
