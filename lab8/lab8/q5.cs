@@ -4,46 +4,32 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 using MySql.Data.MySqlClient;
-namespace Lab8
+
+public class q5
 {
-    internal class q5
-    {
-        public static void Main(string[] args)
-        {
+    public static void Main(string[] args){
 
-            MySqlConnection conn = new MySqlConnection("server=localhost; database=bank; uid=root; password='';");
-            conn.Open();
+        MySqlConnection conn = new MySqlConnection("server=localhost; database=bank; uid=root; password='';");
+        conn.Open();
+        string sql = "insert into customer  values (1,'ritu','bkt',1000), (2,'minu','ktm',20000), (3,'sonu','lalitpur',400)";
+        MySqlCommand cmd = new MySqlCommand(sql, conn);
+        int row = cmd.ExecuteNonQuery();
+        if (row > 0)
+            Console.WriteLine(row+" row inserted.");
+        else
+            Console.WriteLine("insertion failed");
 
-            for (int i = 0; i < 3; i++)
-            {
-                Console.WriteLine("Enter Account number: ");
-                double ac = double.Parse(Console.ReadLine());
-                Console.WriteLine("Enter Name : ");
-                string nm = Console.ReadLine();
-                Console.WriteLine("Enter Address : ");
-                string ad = Console.ReadLine();
-                Console.WriteLine("Enter Salary : ");
-                double sl = double.Parse(Console.ReadLine());
+        string sql2 = "delete from customer where amt<500";
+        MySqlCommand cmd2 = new MySqlCommand(sql2, conn);
+        int row2 = cmd2.ExecuteNonQuery();
+        if (row2 >0)
+            Console.WriteLine(row2 + " row deleted.");
+        else
+            Console.WriteLine("deletion failed");
 
-
-                string sql = ($"insert into customer  values ('{ac}','{nm}','{ad}',{sl})");
-                MySqlCommand cmd = new MySqlCommand(sql, conn);
-                int row = cmd.ExecuteNonQuery();
-                if (row > 0)
-                {
-                    Console.WriteLine("Data is inserted.");
-                }
-                else
-                {
-                    Console.WriteLine("Error iserting data.");
-                }
-            }
-
-
-
-            conn.Close();
-            Console.ReadKey();
-        }
+        conn.Close();
+        Console.ReadKey();
     }
 }
